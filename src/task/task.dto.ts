@@ -7,6 +7,6 @@ export class TaskDto {
 }
 
 export interface FindAllParameters {
-    title: string
-    status: string
+  title: string;
+  status: string;
 }
